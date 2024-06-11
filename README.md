@@ -55,15 +55,6 @@ A program for quick and accurate currency conversion, allowing users to convert 
 - `ExchangeRateAPI.java`: (Optional) Handles real-time exchange rate retrieval.
 CurrencyConverter.java
 
-## Getting Started
-
-To get started with any of these projects, follow these steps:
-
-### Prerequisites
-- Java Development Kit (JDK) installed on your machine.
-- A Java Integrated Development Environment (IDE) such as IntelliJ IDEA, Eclipse, or NetBeans.
-
-
 
 ## License
 
