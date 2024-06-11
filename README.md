@@ -30,11 +30,6 @@ Created a classic Tic-Tac-Toe game in Java, offering a fun and educational proje
 - **Simple UI**: Command-line interface for easy play.
 - **Win Detection**: Automatically detects wins, losses, and draws.
 
-#### Project Structure
-- **TicTacToe.java**: The main class containing the game logic, user input handling, and win/draw detection.
-
-
-
 ### 3. Currency Converter
 
 Developed a Java program for quick and accurate currency conversion, allowing users to convert between different currencies effortlessly.
@@ -44,20 +39,9 @@ Developed a Java program for quick and accurate currency conversion, allowing us
 - **Real-Time Rates**: Uses real-time exchange rates for accurate conversion (with potential for integration with external APIs for live rates).
 - **User-Friendly**: Simple command-line interface for ease of use.
 
-#### Project Structure
-- **CurrencyConverter.java**: The main class containing the logic for currency conversion, user input handling, and rate fetching.
-
-
 
 ## Contribution
 
 Contributions to these projects are welcome! If you have ideas for new features, improvements, or bug fixes, please feel free to submit a pull request or open an issue.
-
-
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 
 Enjoy exploring these Java projects and happy coding!
