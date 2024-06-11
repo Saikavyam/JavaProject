@@ -63,20 +63,6 @@ To get started with any of these projects, follow these steps:
 - Java Development Kit (JDK) installed on your machine.
 - A Java Integrated Development Environment (IDE) such as IntelliJ IDEA, Eclipse, or NetBeans.
 
-### Installation
-
-1. **Clone the repository**:
-    ```bash
-    git clone https://github.com/your-username/java-projects.git
-    ```
-
-2. **Navigate to the project directory**:
-    ```bash
-    cd java-projects
-    ```
-
-3. **Open the desired project in your preferred IDE**.
-
 
 
 ## License
